@@ -5,3 +5,9 @@
 header img{
 	float:left;
 }
+
+#content{
+	max-width:960px;
+	margin-left: auto;
+	margin-right: auto;
+}
